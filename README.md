@@ -1,5 +1,5 @@
 # ex_score
-To predict final exam score of calculus student based on prior performance
+To predict final exam score of calculus student based on prior performance.
 
 We use basic machine learning algorithms to predict calculus students' final exam score based on their quiz and homework scores.
 
